@@ -1,6 +1,6 @@
 ---
 website: "Serviços de Ação Social do Instituto Politécnico de Leiria"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "13/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://sasocial.ipleiria.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://sasocial.ipleiria.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
